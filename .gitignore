@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+
+# NetBeans specific
+/build/
+/nbproject/private/
+/dist/
